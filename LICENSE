@@ -1,6 +1,12 @@
-MIT License
+SATORI License (MIT + Academic Collaboration)
 
-Copyright (c) 2026 J0_NTE
+Copyright (c) 2026 Georges BESNIER
+
+# Open Source License
+
+SATORI is released under the MIT License for academic and research purposes.
+
+## MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +25,108 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## Research Collaboration
+
+If you use SATORI in academic research, we kindly request:
+
+### 1. Citation
+
+Please cite SATORI in publications using the following BibTeX:
+
+```bibtex
+@software{satori2026,
+  author = {Georges BESNIER},
+  title = {SATORI: Economic Operating System for Autonomous Agents},
+  year = {2026},
+  url = {https://github.com/satori-ai/satori},
+  note = {Federated Learning + Dynamic Pricing}
+}
+```
+
+### 2. Collaboration
+
+We are actively seeking research partnerships:
+- Co-authorship on papers
+- Joint funding proposals (ANR, EU Horizon)
+- Student engagement (internships, PhD theses)
+- Technology development partnerships
+
+Contact: contact@satori-ai.xyz 
+
+### 3. Feedback
+
+If your research improves SATORI:
+- Share findings and improvements
+- Contribute back to the project
+- Participate in publications
+- Help validate use cases
+
+---
+
+## Commercial Use
+
+For commercial deployments at scale (>€100k ARR or enterprise use), please contact:
+
+**Email:** Georges BESNIER@satori-ai.fr
+
+This allows us to:
+- Provide dedicated support and SLA
+- Share best practices and optimizations
+- Collaborate on feature development
+- Contribute improvements back to community
+- Ensure sustainability of the project
+
+### Commercial License Terms
+
+While the code is MIT (fully permissive), we appreciate commercial users to:
+1. Inform us of deployments (no obligation, just communication)
+2. Share high-level success metrics (optional)
+3. Consider contributing back improvements (optional)
+4. Engage in partnerships for future development
+
+This keeps the project sustainable and benefits the entire ecosystem.
+
+---
+
+## Dual Licensing Model
+
+**Academic / Non-profit:** MIT License (fully open, free use)
+
+**Commercial:** 
+- MIT still applies (you can use it freely)
+- We encourage partnership discussions
+- Opportunity for joint development
+
+**Strategic Deployments (Government, Defense):**
+- Contact for custom arrangements
+- Support packages available
+- Exclusive features possible
+
+---
+
+## Attribution
+
+SATORI is inspired by and builds on:
+
+- **Federated Learning Research** (McMahan et al., Google)
+- **Mechanism Design Theory** (Myerson, Vickrey-Clarke-Groves)
+- **NVIDIA Jetson Ecosystem** (Edge AI infrastructure)
+- **Open Source Communities** (PyTorch, Transformers, etc.)
+
+---
+
+## Questions?
+
+If you have questions about licensing:
+- Academic use: Covered by MIT, just cite us
+- Commercial use: Email for discussion
+- Collaboration: Always interested in partnerships
+
+**Contact:** contact@satori-ai.xyz 
+
+---
+
+**Keep SATORI open, sovereign, and community-driven.**

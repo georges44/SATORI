@@ -296,9 +296,9 @@ For commercial deployments >€100k ARR, please reach out: maurice@satori-ai.fr
 ## Contact
 
 **For inquiries:**
-- Research collaboration: maurice@satori-ai.fr
-- Commercial pilots: maurice@satori-ai.fr
-- Press/Media: maurice@satori-ai.fr
+- Research collaboration: contact@satori-ai.xyz
+- Commercial pilots: contact@satori-ai.xyz
+- Press/Media: contact@satori-ai.xyz
 
 **Links:**
 - GitHub: https://github.com/satori-ai/satori
